@@ -1,0 +1,22 @@
+{
+  "name": "drunk-generator",
+  "version": "0.0.5",
+  "description": "A libray that can help quickly create a drunk demo and extend by yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "drunk",
+    "generator"
+  ],
+  "author": "NextDoor Wang <fuye_sun@163.com>",
+  "license": "BSD-2-Clause",
+  "preferGlobal": "true",
+  "bin": {
+    "drunk-generator": "bin/drunk-generator.js"
+  },
+  "directories": {
+    "example": "example"
+  }
+}
